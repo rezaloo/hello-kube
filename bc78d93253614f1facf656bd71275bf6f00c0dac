@@ -1,0 +1,1 @@
+{"jobID":"b8465371-f742-e024-753c-d2897d56b81a","spec":{"type":"policy","cause":{"Message":"","User":"Reza Shafii \u003cshafii.reza@gmail.com\u003e"},"spec":{"default:deployment/hello-kubernetes":{"add":{"automated":"true"},"remove":null}}},"result":null}
